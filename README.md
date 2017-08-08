@@ -2,4 +2,4 @@
 
 Basic ANN only using numpy and matplotlib. 
 
-See the calculation of how feedfoward and backpropagation really works.
+See the calculation how feedfoward and backpropagation really works.
